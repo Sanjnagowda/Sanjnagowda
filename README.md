@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Sanjnagowda
-- 👀 I’m interested in 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on Instagram 
-- 
-- ⚡ Fun fact: day dreamer
+-  I’m interested in Electronics 
+-  I’m currently learning C program 
+-  I’m looking to collaborate on Instagram 
 
-<!---
-Sanjnagowda/Sanjnagowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am pursuing Electronics and communication Engineering at East point college Bangalore 
